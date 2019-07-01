@@ -1,0 +1,25 @@
+{
+  "name": "remotemanager",
+  "version": "1.0.0",
+  "description": "an efficient way to manage your computer remotely",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monokaijs/RemoteManager.git"
+  },
+  "keywords": [
+    "remotemanager"
+  ],
+  "author": "Nguyen Anh Nhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monokaijs/RemoteManager/issues"
+  },
+  "homepage": "https://github.com/monokaijs/RemoteManager#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
